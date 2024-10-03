@@ -3,7 +3,7 @@ package ru.sirotenkostepan.shoppinglist.domain
 data class ShopItem(
     val name: String,
     val count: Int,
-    val enables: Boolean,
+    val enabled: Boolean,
     var id: Int = UNDEFINED_ID
 ) {
     companion object {
