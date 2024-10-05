@@ -1,10 +1,10 @@
-package ru.sirotenkostepan.shoppinglist.presentation
+package ru.sirotenkostepan.shoppinglist.presentation.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.ListAdapter
 import ru.sirotenkostepan.shoppinglist.R
-import ru.sirotenkostepan.shoppinglist.domain.ShopItem
+import ru.sirotenkostepan.shoppinglist.domain.models.ShopItem
 
 class ShopListAdapter
     : ListAdapter<ShopItem, ShopItemViewHolder>(ShopItemDiffCallback()) {

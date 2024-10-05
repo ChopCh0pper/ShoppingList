@@ -1,6 +1,7 @@
 package ru.sirotenkostepan.shoppinglist.domain
 
 import androidx.lifecycle.LiveData
+import ru.sirotenkostepan.shoppinglist.domain.models.ShopItem
 
 interface ShopListRepository {
 

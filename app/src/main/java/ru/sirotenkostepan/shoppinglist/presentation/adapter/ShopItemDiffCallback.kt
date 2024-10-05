@@ -1,7 +1,7 @@
-package ru.sirotenkostepan.shoppinglist.presentation
+package ru.sirotenkostepan.shoppinglist.presentation.adapter
 
 import androidx.recyclerview.widget.DiffUtil
-import ru.sirotenkostepan.shoppinglist.domain.ShopItem
+import ru.sirotenkostepan.shoppinglist.domain.models.ShopItem
 
 class ShopItemDiffCallback: DiffUtil.ItemCallback<ShopItem>() {
 

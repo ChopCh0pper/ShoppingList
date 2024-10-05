@@ -1,4 +1,4 @@
-package ru.sirotenkostepan.shoppinglist.domain
+package ru.sirotenkostepan.shoppinglist.domain.models
 
 data class ShopItem(
     val name: String,

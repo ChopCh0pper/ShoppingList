@@ -1,4 +1,4 @@
-package ru.sirotenkostepan.shoppinglist.presentation
+package ru.sirotenkostepan.shoppinglist.presentation.adapter
 
 import android.view.View
 import android.widget.TextView

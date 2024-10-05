@@ -1,12 +1,11 @@
-package ru.sirotenkostepan.shoppinglist.presentation
+package ru.sirotenkostepan.shoppinglist.presentation.viewmodels
 
-import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import ru.sirotenkostepan.shoppinglist.data.ShopListRepositoryImpl
-import ru.sirotenkostepan.shoppinglist.domain.DeleteShopItemUseCase
-import ru.sirotenkostepan.shoppinglist.domain.EditShopItemUseCase
-import ru.sirotenkostepan.shoppinglist.domain.GetShopListUseCase
-import ru.sirotenkostepan.shoppinglist.domain.ShopItem
+import ru.sirotenkostepan.shoppinglist.domain.usecases.DeleteShopItemUseCase
+import ru.sirotenkostepan.shoppinglist.domain.usecases.EditShopItemUseCase
+import ru.sirotenkostepan.shoppinglist.domain.usecases.GetShopListUseCase
+import ru.sirotenkostepan.shoppinglist.domain.models.ShopItem
 
 class MainViewModel: ViewModel() {
 

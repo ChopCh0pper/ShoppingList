@@ -1,4 +1,7 @@
-package ru.sirotenkostepan.shoppinglist.domain
+package ru.sirotenkostepan.shoppinglist.domain.usecases
+
+import ru.sirotenkostepan.shoppinglist.domain.models.ShopItem
+import ru.sirotenkostepan.shoppinglist.domain.ShopListRepository
 
 class DeleteShopItemUseCase(private val shopListRepository: ShopListRepository) {
 

@@ -7,7 +7,8 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.RecyclerView
 import ru.sirotenkostepan.shoppinglist.R
-import ru.sirotenkostepan.shoppinglist.domain.ShopItem
+import ru.sirotenkostepan.shoppinglist.presentation.adapter.ShopListAdapter
+import ru.sirotenkostepan.shoppinglist.presentation.viewmodels.MainViewModel
 
 class MainActivity : AppCompatActivity() {
 

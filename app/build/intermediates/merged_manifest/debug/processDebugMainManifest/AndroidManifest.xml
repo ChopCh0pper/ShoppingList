@@ -28,6 +28,10 @@
         android:testOnly="true"
         android:theme="@style/Theme.ShoppingList" >
         <activity
+            android:name="ru.sirotenkostepan.shoppinglist.presentation.ShopItemActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
             android:name="ru.sirotenkostepan.shoppinglist.presentation.MainActivity"
             android:exported="true" >
             <intent-filter>
