@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple
+color purple_
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button_add_shop_item
+id main
+id rv_shop_list
+id tv_count
+id tv_name
+layout activity_main
+layout item_shop_disabled
+layout item_shop_enabled
+mipmap ic_launcher
+mipmap ic_launcher_round
+string add_new_shop_item
+string app_name
+style Base.Theme.ShoppingList
+style Theme.ShoppingList
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple">#DC18F8</color>
+    <color name="purple_">#44DC18F8</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_new_shop_item">Add new shop item</string>
+    <string name="app_name">ShoppingList</string>
+    <style name="Base.Theme.ShoppingList" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ShoppingList" parent="Base.Theme.ShoppingList"/>
+</resources>
