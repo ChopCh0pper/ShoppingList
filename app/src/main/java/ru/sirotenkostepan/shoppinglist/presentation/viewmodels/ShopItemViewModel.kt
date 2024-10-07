@@ -55,12 +55,21 @@ class ShopItemViewModel : ViewModel() {
         val fieldsValid = validateInput(name, count)
         if (fieldsValid) {
             _shopItem.value?.let {
-                val item = it.copy(name, count)
+                val item = it.copy(name = name, count = count)
                 editShopItemUseCase.editShopItem(item)
                 finishWork()
             }
         }
     }
+
+    fun resetErrorInputName() {
+        _errorInputName.value = false
+    }
+
+    fun resetErrorInputCount() {
+        _errorInputCount.value = false
+    }
+
 
     private fun parseName(inputName: String?): String {
         return inputName?.trim() ?: ""
@@ -86,14 +95,6 @@ class ShopItemViewModel : ViewModel() {
         }
 
         return result
-    }
-
-    fun resetErrorInputName() {
-        _errorInputName.value = false
-    }
-
-    fun resetErrorInputCount() {
-        _errorInputCount.value = false
     }
 
     private fun finishWork() {
