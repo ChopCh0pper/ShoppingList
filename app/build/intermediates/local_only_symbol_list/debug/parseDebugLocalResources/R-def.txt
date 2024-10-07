@@ -12,12 +12,14 @@ id et_name
 id main
 id rv_shop_list
 id save_button
+id shop_item_container
 id til_count
 id til_name
 id tv_count
 id tv_name
 layout activity_main
 layout activity_shop_item
+layout fragment_shop_item
 layout item_shop_disabled
 layout item_shop_enabled
 mipmap ic_launcher
