@@ -9,6 +9,7 @@ drawable ic_launcher_foreground
 id button_add_shop_item
 id et_count
 id et_name
+id guideline_middle
 id main
 id rv_shop_list
 id save_button

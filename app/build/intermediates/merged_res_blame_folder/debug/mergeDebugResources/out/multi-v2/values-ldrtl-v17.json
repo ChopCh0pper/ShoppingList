@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "ru.sirotenkostepan.shoppinglist.app-mergeDebugResources-2:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "outputFile": "ru.sirotenkostepan.shoppinglist.app-mergeDebugResources-38:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ChopChopper\\.gradle\\caches\\transforms-4\\87bace873d8b5a6d1ed89701b4619c93\\transformed\\material-1.12.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\beyak\\.gradle\\caches\\8.9\\transforms\\97edd1a495b4362815c574fcb6e64afb\\transformed\\material-1.12.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
