@@ -7,6 +7,8 @@ INJECTED from C:\Users\beyak\AndroidStudioProjects\Studing\ShoppingList\app\src\
 MERGED from [androidx.databinding:databinding-adapters:8.7.1] C:\Users\beyak\.gradle\caches\8.9\transforms\d0da64d903a258c1afd02f2e1204fa53\transformed\databinding-adapters-8.7.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-ktx:8.7.1] C:\Users\beyak\.gradle\caches\8.9\transforms\c415d30bb2fcc6e50dbfc02717ca392a\transformed\databinding-ktx-8.7.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-runtime:8.7.1] C:\Users\beyak\.gradle\caches\8.9\transforms\a2b612a2fd2add6033244fe9aaaf5706\transformed\databinding-runtime-8.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\7a688abedabf0a7a09b24d0b1f50df5e\transformed\room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\beyak\.gradle\caches\8.9\transforms\97edd1a495b4362815c574fcb6e64afb\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9149607ffcc6bb0759ff9039884488\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\beyak\.gradle\caches\8.9\transforms\6edd3d78687b36756e24ca8ef7680ba9\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
@@ -41,7 +43,6 @@ MERGED from [androidx.lifecycle:lifecycle-service:2.8.6] C:\Users\beyak\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\beyak\.gradle\caches\8.9\transforms\92ec7181f3adfee7863507e8e1fcbfc9\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.6] C:\Users\beyak\.gradle\caches\8.9\transforms\233fd958803ef76d189feb3496e01f91\transformed\lifecycle-livedata-2.8.6\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6] C:\Users\beyak\.gradle\caches\8.9\transforms\9dd1d9af07ccababcc80c0385f434ce7\transformed\lifecycle-viewmodel-ktx-2.8.6\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\beyak\.gradle\caches\8.9\transforms\22abbd42ee63b18169b14c3022760b79\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\beyak\.gradle\caches\8.9\transforms\dbe86a4b56f107ecdd9cc2679aaea664\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\beyak\.gradle\caches\8.9\transforms\670010cbb4ebd2ade9f0e5ba022e3f9f\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
@@ -70,6 +71,8 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\beyak\.gradle\caches\8.9\trans
 application
 ADDED from C:\Users\beyak\AndroidStudioProjects\Studing\ShoppingList\app\src\main\AndroidManifest.xml:5:5-28:19
 INJECTED from C:\Users\beyak\AndroidStudioProjects\Studing\ShoppingList\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\beyak\.gradle\caches\8.9\transforms\97edd1a495b4362815c574fcb6e64afb\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\beyak\.gradle\caches\8.9\transforms\97edd1a495b4362815c574fcb6e64afb\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9149607ffcc6bb0759ff9039884488\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -80,8 +83,6 @@ MERGED from [androidx.core:core:1.13.1] C:\Users\beyak\.gradle\caches\8.9\transf
 MERGED from [androidx.core:core:1.13.1] C:\Users\beyak\.gradle\caches\8.9\transforms\06d6a7c4c25eae0910c0d302f4f4b5b7\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\beyak\.gradle\caches\8.9\transforms\92ec7181f3adfee7863507e8e1fcbfc9\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\beyak\.gradle\caches\8.9\transforms\92ec7181f3adfee7863507e8e1fcbfc9\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
-MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\beyak\.gradle\caches\8.9\transforms\bb13b84db2390b12a07c58e7b397895d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\beyak\.gradle\caches\8.9\transforms\bb13b84db2390b12a07c58e7b397895d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\beyak\.gradle\caches\8.9\transforms\63b6e4df011fc151d728c26e3219eba5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
@@ -144,6 +145,10 @@ MERGED from [androidx.databinding:databinding-ktx:8.7.1] C:\Users\beyak\.gradle\
 MERGED from [androidx.databinding:databinding-ktx:8.7.1] C:\Users\beyak\.gradle\caches\8.9\transforms\c415d30bb2fcc6e50dbfc02717ca392a\transformed\databinding-ktx-8.7.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:databinding-runtime:8.7.1] C:\Users\beyak\.gradle\caches\8.9\transforms\a2b612a2fd2add6033244fe9aaaf5706\transformed\databinding-runtime-8.7.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:databinding-runtime:8.7.1] C:\Users\beyak\.gradle\caches\8.9\transforms\a2b612a2fd2add6033244fe9aaaf5706\transformed\databinding-runtime-8.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\7a688abedabf0a7a09b24d0b1f50df5e\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\7a688abedabf0a7a09b24d0b1f50df5e\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\beyak\.gradle\caches\8.9\transforms\97edd1a495b4362815c574fcb6e64afb\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\beyak\.gradle\caches\8.9\transforms\97edd1a495b4362815c574fcb6e64afb\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9149607ffcc6bb0759ff9039884488\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
@@ -212,8 +217,6 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.6] C:\Users\beyak\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.6] C:\Users\beyak\.gradle\caches\8.9\transforms\233fd958803ef76d189feb3496e01f91\transformed\lifecycle-livedata-2.8.6\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6] C:\Users\beyak\.gradle\caches\8.9\transforms\9dd1d9af07ccababcc80c0385f434ce7\transformed\lifecycle-viewmodel-ktx-2.8.6\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6] C:\Users\beyak\.gradle\caches\8.9\transforms\9dd1d9af07ccababcc80c0385f434ce7\transformed\lifecycle-viewmodel-ktx-2.8.6\AndroidManifest.xml:5:5-44
-MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
 MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\beyak\.gradle\caches\8.9\transforms\22abbd42ee63b18169b14c3022760b79\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\beyak\.gradle\caches\8.9\transforms\22abbd42ee63b18169b14c3022760b79\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\beyak\.gradle\caches\8.9\transforms\dbe86a4b56f107ecdd9cc2679aaea664\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
@@ -248,6 +251,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\beyak\.gradle\caches\8.9\trans
 		INJECTED from C:\Users\beyak\AndroidStudioProjects\Studing\ShoppingList\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\beyak\AndroidStudioProjects\Studing\ShoppingList\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\beyak\.gradle\caches\8.9\transforms\82e87facfb2f80e6ddd3981506470b08\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\beyak\.gradle\caches\8.9\transforms\92ec7181f3adfee7863507e8e1fcbfc9\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:24:9-32:20
@@ -296,16 +309,6 @@ ADDED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\beyak\.gradle\c
 		ADDED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\beyak\.gradle\caches\8.9\transforms\92ec7181f3adfee7863507e8e1fcbfc9\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:31:17-49
 	android:name
 		ADDED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\beyak\.gradle\caches\8.9\transforms\92ec7181f3adfee7863507e8e1fcbfc9\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:30:17-78
-service#androidx.room.MultiInstanceInvalidationService
-ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
-	android:exported
-		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
-	tools:ignore
-		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
-	android:directBootAware
-		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
-	android:name
-		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\beyak\.gradle\caches\8.9\transforms\0d9e72cacd31bcce1fb9020efbf213a2\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
 ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\beyak\.gradle\caches\8.9\transforms\bb13b84db2390b12a07c58e7b397895d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
 	android:value

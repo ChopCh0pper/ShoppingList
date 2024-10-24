@@ -40,6 +40,10 @@ android {
 }
 
 dependencies {
+    implementation ("androidx.room:room-runtime:2.6.1")
+    // Для поддержки корутин в Room
+    implementation ("androidx.room:room-ktx:2.6.1")
+    implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3") // или более актуальная версия корутин
     implementation (libs.androidx.lifecycle.viewmodel.ktx)
     implementation (libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.room.runtime)

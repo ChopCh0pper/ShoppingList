@@ -1,4 +1,4 @@
-#Fri Oct 18 20:24:09 GMT+07:00 2024
+#Sat Oct 19 20:24:00 GMT+07:00 2024
 base.0=C\:\\Users\\beyak\\AndroidStudioProjects\\Studing\\ShoppingList\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\beyak\\AndroidStudioProjects\\Studing\\ShoppingList\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\beyak\\AndroidStudioProjects\\Studing\\ShoppingList\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
